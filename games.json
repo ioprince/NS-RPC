@@ -43,5 +43,8 @@
             {"name" : "Dragon Quest Builders 2", "img" : "dqb2"},
             {"name" : "Fire Emblem: Three Houses", "img" : "fe3h"},
             {"name" : "Astral Chain", "img" : "ac"}
+            {"name" : "Animal Crossing : New Horizons", "img" : "acnh"}
+            {"name" : "Pokémon : Sword", "img" : "pkmnsword"}
+            {"name" : "Pokémon : Shield", "img" : "pkmnshield"}
         ]
 }
